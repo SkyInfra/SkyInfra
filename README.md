@@ -1,4 +1,9 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Haseeb Akhtar</h1>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IHuxnsEm5fYCfsbWEm0TKSGziad-vpmjEg&s" width="500">
+</p>
 SE Student @ COMSATS University Islamabad  <br>Aspiring Cloud & DevOps Engineer  <br>Java | C++ | SQL | Linux | DSA  <br>Currently learning AWS, Docker & CI/CD  <br>Open to collaboration and learning opportunities
 
 
