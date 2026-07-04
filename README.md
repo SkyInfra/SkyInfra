@@ -65,20 +65,15 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SkyInfra&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=SkyInfra&theme=tokyonight" />
 </p>
 
 ---
