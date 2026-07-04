@@ -5,14 +5,18 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily+%F0%9F%9A%80;Always+Learning+New+Things" />
+  <img src="images/banner.gif" width="700" alt="Banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Software Engineering Student at **COMSATS University Islamabad**
+🎓 **Software Engineering Student** @ COMSATS University Islamabad
 
 💻 Passionate about **Backend Development**
 
@@ -22,55 +26,50 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 
 🚀 Building Backend & DevOps Projects
 
+🎯 Goal: Become a **Cloud & DevOps Engineer**
+
 🤝 Open to internships and collaboration opportunities
 
 ---
 
 # 🚀 Current Focus
 
-- 🔥 Backend Development
+- 💻 Backend Development
 - 🐳 Docker
-- ☁️ AWS
+- ☁️ AWS Cloud
 - 🐧 Linux
 - ⚙️ CI/CD
-- 💻 Data Structures & Algorithms
+- 📚 Data Structures & Algorithms
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql" />
+</p>
 
-### Backend
+### ⚙️ Tools & Technologies
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,docker,linux,vscode" />
+</p>
 
-### Database
+### ☁️ Currently Learning
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Cloud
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,bash" />
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=tokyonight"/>
 
@@ -97,30 +96,26 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 # 📚 Featured Repositories
 
 ⭐ **LeetCode Solutions**
-
-Daily LeetCode solutions in C++
+- Daily C++ solutions with clean folder organization.
 
 ⭐ **Library Management System**
+- Console-based library management project in C++.
 
-Console-based Library Management System in C++
-
-⭐ **Data Structures**
-
-Practice implementations of Data Structures
+⭐ **Data Structures & Algorithms**
+- Practice implementations and university coursework.
 
 ⭐ **Java Projects**
-
-University & personal Java projects
+- Object-Oriented Programming and Java applications.
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve 300+ LeetCode Problems
+- ✅ Solve **300+ LeetCode Problems**
 - ✅ Master Backend Development
 - ✅ Learn Docker & Kubernetes
-- ✅ Earn AWS Cloud Practitioner
-- ✅ Build Full Stack Projects
+- ✅ Earn AWS Cloud Practitioner Certification
+- ✅ Build Production-Ready Backend APIs
 - ✅ Become a Cloud & DevOps Engineer
 
 ---
@@ -130,11 +125,11 @@ University & personal Java projects
 <p align="center">
 
 <a href="https://www.linkedin.com/in/haseeb-akhtar-954466344/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:haseeb.dealsphere@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -143,14 +138,14 @@ University & personal Java projects
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=SkyInfra&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=SkyInfra&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-💡 *"Consistency beats intensity. Keep Learning. Keep Building."*
+### 💡 *"Consistency beats intensity. Keep Learning. Keep Building."*
 
-</h3>
+</p>
