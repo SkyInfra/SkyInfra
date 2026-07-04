@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Haseeb Akhtar</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Haseeb Akhtar</h1>
 
 <h3 align="center">
 Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-  <img src="images/banner.gif" width="700" alt="Banner">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IHuxnsEm5fYCfsbWEm0TKSGziad-vpmjEg&s" width="700" alt="Banner">
 </p>
 
 <p align="center">
@@ -45,19 +45,19 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql" />
 </p>
 
-### ⚙️ Tools & Technologies
+### Backend & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,docker,linux,vscode" />
 </p>
 
-### ☁️ Currently Learning
+### Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,bash" />
@@ -93,19 +93,19 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 
 ---
 
-# 📚 Featured Repositories
+# 📚 Featured Projects
 
-⭐ **LeetCode Solutions**
-- Daily C++ solutions with clean folder organization.
+### 🌟 LeetCode Solutions
+Daily C++ solutions organized by topic.
 
-⭐ **Library Management System**
-- Console-based library management project in C++.
+### 🌟 Library Management System
+Console-based library management system using C++.
 
-⭐ **Data Structures & Algorithms**
-- Practice implementations and university coursework.
+### 🌟 Data Structures & Algorithms
+University coursework and DSA practice.
 
-⭐ **Java Projects**
-- Object-Oriented Programming and Java applications.
+### 🌟 Java Projects
+Object-Oriented Programming and Java applications.
 
 ---
 
@@ -114,7 +114,7 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 - ✅ Solve **300+ LeetCode Problems**
 - ✅ Master Backend Development
 - ✅ Learn Docker & Kubernetes
-- ✅ Earn AWS Cloud Practitioner Certification
+- ✅ Earn AWS Cloud Practitioner
 - ✅ Build Production-Ready Backend APIs
 - ✅ Become a Cloud & DevOps Engineer
 
@@ -144,8 +144,6 @@ Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
 
 ---
 
-<p align="center">
-
-### 💡 *"Consistency beats intensity. Keep Learning. Keep Building."*
-
-</p>
+<h3 align="center">
+💡 <i>"Consistency beats intensity. Keep Learning. Keep Building."</i>
+</h3>
