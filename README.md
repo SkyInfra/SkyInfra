@@ -9,7 +9,7 @@ Software Engineering Student • Backend FastApi • Cloud & DevOps Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+FastApi;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
