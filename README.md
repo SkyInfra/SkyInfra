@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb Akhtar</h1>
 
 <h3 align="center">
-Software Engineering Student • Backend Developer • Cloud & DevOps Enthusiast
+Software Engineering Student • Backend FastApi • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
