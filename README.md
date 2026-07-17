@@ -94,20 +94,14 @@ Open For:
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SkyInfra&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=SkyInfra&theme=github-dark&hide_border=true" />
 </p>
-
----
 
 # 📈 Contribution Graph
 
