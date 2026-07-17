@@ -90,18 +90,14 @@ Open For:
 </p>
 
 ---
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkyInfra&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyInfra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=SkyInfra&theme=%7B%22backgroundColor%22%3A%220D1117%22,%22textColor%22%3A%22FFFFFF%22,%22accentColor%22%3A%2200A3FF%22,%22borderColor%22%3A%22161B22%22,%22waterColor%22%3A%2200A3FF%22,%22streakColor%22%3A%2200A3FF%22%7D"
+    width="700"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyInfra&theme=tokyonight&hide_border=true" />
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
