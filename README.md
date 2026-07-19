@@ -39,7 +39,7 @@ Focus:
   - DevOps
 
 Currently Learning:
-  - AWS
+  - Azure
   - Docker
   - Linux
   - CI/CD
