@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb Akhtar</h1>
 
 <h3 align="center">
-Software Engineering Student • Backend FastApi • Cloud & DevOps Enthusiast
+Software Engineering Student  • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -34,7 +34,6 @@ University: COMSATS University Islamabad
 Degree: Software Engineering
 
 Focus:
-  - Backend Development
   - Cloud Computing
   - DevOps
 
