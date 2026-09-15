@@ -13,7 +13,6 @@ Software Engineering Student  • Cloud & DevOps Enthusiast
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+FastApi;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things"/>
 </p>
- plz make it
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haseeb-akhtar-954466344/">
