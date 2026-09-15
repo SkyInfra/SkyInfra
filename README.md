@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb Akhtar</h1>
 
 <h3 align="center">
-Software Engineering Student  • Cloud & DevOps Enthusiast
+Software Engineering Student • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Software Engineering Student  • Cloud & DevOps Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+FastApi;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Muhammad+Haseeb+Akhtar;Backend+FastAPI;Cloud+%26+DevOps+Learner;AWS+%7C+Docker+%7C+Linux;LeetCode+Daily;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
