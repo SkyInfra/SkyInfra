@@ -158,11 +158,11 @@ Open For:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/haseeb-akhtar-954466344/">
+<a href="https://www.linkedin.com/in/muhammad-haseeb-akhtar-954466344/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:haseeb.dealsphere@gmail.com">
+<a href="mailto:haseebakhtar936@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
